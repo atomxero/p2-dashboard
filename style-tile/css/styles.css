@@ -27,11 +27,19 @@ section {
 
 /*Style Tile for Sammie Roland*/
 .color-1 {
-	background: orange;
+	background: black;
 }
 .color-2 {
-	background: green;
+	background: white;
 
+}
+.color-3 {
+	background: white;
+}
+
+.imagery-1 {
+
+	background: "../img/graphy.png";
 }
 
 
