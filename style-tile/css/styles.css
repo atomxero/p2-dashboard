@@ -53,9 +53,15 @@ section {
 
 	background: url("../img/graphy.png");
 }
+.pattern-2 {
 
+	background: url("../img/retina_wood.png");
+}
 
+.pattern-3 {
 
+	background: url("../img/dirty_old_shirt.png");
+}
 
 
 /* Show Grid */
