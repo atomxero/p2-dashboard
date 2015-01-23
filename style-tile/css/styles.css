@@ -3,6 +3,14 @@ h2, h3, p {
 	margin: 0;
 }
 
+body {
+	background: #98E5FA;
+	color: #fff;
+
+}
+
+
+
 /* Layout for Style Tile*/
 section {
 	margin: 20px 0;
@@ -11,6 +19,7 @@ section {
 .color-1,
 .color-2,
 .color-3,
+.color-4,
 .pattern-1,
 .pattern-2,
 .pattern-3, 
@@ -27,19 +36,22 @@ section {
 
 /*Style Tile for Sammie Roland*/
 .color-1 {
-	background: black;
+	background: #3299BB;
 }
 .color-2 {
-	background: white;
+	background: #BCBCBC;
 
 }
 .color-3 {
 	background: white;
 }
+.color-3 {
+	background: white;
+}
 
-.imagery-1 {
+.pattern-1 {
 
-	background: "../img/graphy.png";
+	background: url("../img/graphy.png");
 }
 
 
