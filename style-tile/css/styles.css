@@ -1,0 +1,70 @@
+/* Set Your Own Margin & Padding */
+h2, h3, p {
+	margin: 0;
+}
+
+body {
+	background: #98E5FA;
+	color: #fff;
+
+}
+
+
+
+/* Layout for Style Tile*/
+section {
+	margin: 20px 0;
+}
+
+.color-1,
+.color-2,
+.color-3,
+.color-4,
+.pattern-1,
+.pattern-2,
+.pattern-3, 
+.imagery-1,
+.imagery-2,
+.imagery-3 {
+	border: 1px solid #000;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+
+
+/*Style Tile for Sammie Roland*/
+.color-1 {
+	background: #3299BB;
+}
+.color-2 {
+	background: #BCBCBC;
+
+}
+.color-3 {
+	background: white;
+}
+.color-3 {
+	background: white;
+}
+
+.pattern-1 {
+
+	background: url("../img/graphy.png");
+}
+.pattern-2 {
+
+	background: url("../img/retina_wood.png");
+}
+
+.pattern-3 {
+
+	background: url("../img/dirty_old_shirt.png");
+}
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
