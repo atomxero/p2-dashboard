@@ -69,7 +69,9 @@ section {
 .profile {
 	background: url("../img/retina_wood.png");
 }
-
+.content {
+	background: #98E5FA;
+}
 /*balance*/
 
 
