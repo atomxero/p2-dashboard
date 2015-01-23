@@ -3,9 +3,11 @@ h2, h3, p {
 	margin: 0;
 }
 
-body {
-	background: #98E5FA;
-	color: #fff;
+.style {
+	background: url("../img/retina_wood.png");
+	color: #3299BB;
+
+
 
 }
  h1 {
@@ -67,11 +69,9 @@ section {
 
 /*profile*/	
 .profile {
-	background: url("../img/retina_wood.png");
+	background: #98E5FA:;
 }
-.content {
-	background: #98E5FA;
-}
+
 /*balance*/
 
 
