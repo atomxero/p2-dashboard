@@ -69,13 +69,19 @@ section {
 
 /*profile*/	
 .profile {
-	background: #98E5FA:;
+	background: #98E5FA
 }
 
 /*balance*/
 
 
 /*calendar*/
+
+/*email*/
+.email {
+	background: url("../img/retina_wood.png");
+}
+
 
 /* Show Grid */
 .showgrid {
