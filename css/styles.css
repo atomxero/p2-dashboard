@@ -8,7 +8,9 @@ body {
 	color: #fff;
 
 }
-
+ h1 {
+ 	font-family: 'Fontdiner Swanky', cursive;
+ }
 
 
 /* Layout for Style Tile*/
@@ -45,8 +47,8 @@ section {
 .color-3 {
 	background: white;
 }
-.color-3 {
-	background: white;
+.color-4 {
+	background: #98E5FA;
 }
 
 .pattern-1 {
@@ -63,10 +65,15 @@ section {
 	background: url("../img/dirty_old_shirt.png");
 }
 
-
+/*profile*/	
 .profile {
-	background: red;
+	background: url("../img/retina_wood.png");
 }
+
+/*balance*/
+
+
+/*calendar*/
 
 /* Show Grid */
 .showgrid {
