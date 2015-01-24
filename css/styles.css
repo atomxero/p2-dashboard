@@ -119,6 +119,12 @@ section {
 
 /*calendar*/
 
+/*classes*/
+.classes {
+	background: url("../img/retina_wood.png");
+	margin: 20px 20px;
+
+}
 /*email*/
 .email {
 	background: url("../img/dirty_old_shirt.png");
