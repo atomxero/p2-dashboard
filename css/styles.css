@@ -117,7 +117,8 @@ section {
 /*classes*/
 .classes {
 	background: #BCBCBC;
-	margin: 20px 20px; }
+	margin: 20px 20px; 
+}
 
 .current{
 	text-align: center;
@@ -131,7 +132,13 @@ section {
 }
 
 /*course search*/
+.course {
+	margin: 20px 20px; 
 
+}
+.prompt {
+	margin: 20px 20px; 
+}
 
 /* Show Grid */
 .showgrid {
