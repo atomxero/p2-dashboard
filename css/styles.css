@@ -4,10 +4,16 @@ h1 {
  	color: #3299BB;
  }
 
- h2, h3, p {
+ h2, h3 {
 	margin: 0;
 	font-family: 'Open Sans', sans-serif;
 	color: #FF9900;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+	color: #BCBCBC;
+	
 }
 	
 em {
@@ -114,6 +120,7 @@ section {
 /*email*/
 .email {
 	background: url("../img/dirty_old_shirt.png");
+	
 	margin: 20px 20px;
 }
 
