@@ -1,16 +1,42 @@
 /* Set Your Own Margin & Padding */
 h1 {
  	font-family: 'Fontdiner Swanky', cursive;
+ 	color: #3299BB;
  }
 
  h2, h3, p {
 	margin: 0;
 	font-family: 'Open Sans', sans-serif;
+	color: #FF9900;
+}
+	
+em {
+	color: #3299BB;
 }
 
 .style {
 	background: url("../img/dirty_old_shirt.png");
-	color: #3299BB;
+	
+}
+
+/*link */
+a:link {
+    color: #FF9900;
+}
+
+/* visited link */
+a:visited {
+    color: #BCBCBC;
+}
+
+/* mouse over link */
+a:hover {
+    color: #3299BB;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
 }
 
  
