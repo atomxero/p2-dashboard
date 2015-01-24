@@ -1,19 +1,19 @@
 /* Set Your Own Margin & Padding */
-h2, h3, p {
+h1 {
+ 	font-family: 'Fontdiner Swanky', cursive;
+ }
+
+ h2, h3, p {
 	margin: 0;
-	font-family: 'Poiret One', cursive;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .style {
 	background: url("../img/dirty_old_shirt.png");
 	color: #3299BB;
-
-
-
 }
- h1 {
- 	font-family: 'Fontdiner Swanky', cursive;
- }
+
+ 
 
 
 /* Layout for Style Tile*/
@@ -68,20 +68,17 @@ section {
 
 .pattern-3 {
 	background: url("../img/dirty_old_shirt.png");
-	border: 5px 5px, blue;
+}	
 
 /*profile*/	
 .profile {
 	background: #98E5FA;
 	margin-left: 100px;
 }
+.content, .meta {
+	text-align: center;
+}
 
-.header {
-	text-align: center;
-}
-.meta {
-	text-align: center;
-}
 
 /*balance*/
 
