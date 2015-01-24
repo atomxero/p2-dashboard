@@ -13,7 +13,7 @@ h1 {
 p{
 	font-family: 'Open Sans', sans-serif;
 	color: #BCBCBC;
-	
+
 }
 	
 em {
@@ -113,7 +113,9 @@ section {
 
 
 /*balance*/
-
+.tuition {
+	text-align: center;
+}
 
 /*calendar*/
 
